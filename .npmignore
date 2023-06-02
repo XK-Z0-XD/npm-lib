@@ -5,3 +5,8 @@
 /.git
 /.gitconfig
 *.bashrc
+/bin
+/dist/
+/example
+/docs
+/bin/
