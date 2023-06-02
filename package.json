@@ -1,0 +1,38 @@
+{
+  "name": "npm-lib",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This package is for storing my javascript/nodejs modules that I might use in later projects.",
+  "main": "index.js",
+  "author": "xk-z0-xd eVmPr0gramm1ng@outlook.com https://github.com/XK-Z0-XD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XK-Z0-XD/npm-lib.git"
+  },
+  "scripts": {
+    "test": "hello_world"
+    
+  },
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "npm-lib",
+    "xk Library",
+    "xk lib"
+  ],
+  "directories": {
+    "example": "/example",
+    "bin": "/bin",
+    "test": "/test",
+    "doc": "/docs",
+    "lib": "/lib",
+    "man": "/man",
+    "build": "/build"
+  },
+
+  "readme": "README.md",
+  "homepage": "https://github.com/XK-Z0-XD/npm-lib#readme",
+  "bugs": {
+    "url": "https://github.com/XK-Z0-XD/npm-lib/issues"
+  },
+}
