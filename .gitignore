@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 #nodejs
 /node_modules
+/docs/npm*
