@@ -11,6 +11,7 @@
   "scripts": {
     "test": "hello_world"
   },
+  
   "categories": [ "Other" ],
   "private": false,
   "license": "MIT",
@@ -30,9 +31,10 @@
     "man": "/man"
   },
   "files": [
-    "src/", "src/core", "lib/", "test/"
-
-
+    "src/",
+    "src/core",
+    "lib/",
+    "test/"
   ],
   "readme": "README.md",
   "homepage": "https://github.com/XK-Z0-XD/npm-lib#readme",
@@ -41,7 +43,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://registry.npmjs.org/npm-lib",
     "tag": "v1.0.0"
   },
   "dist": {
