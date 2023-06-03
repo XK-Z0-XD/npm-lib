@@ -43,7 +43,7 @@
     "url": "https://github.com/XK-Z0-XD/npm-lib/issues"
   },
   "icon": "docs/media/favicon256.gif",
-  
+  "publishConfig": {"access": "public", "tag": "npm-lib", "registry": "https://registry.npmjs.org/npm-lib" },
   "dependencies": {},
   "devDependencies": {},
   "markdown": "github",
