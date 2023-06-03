@@ -11,8 +11,10 @@
   "scripts": {
     "test": "hello_world"
   },
-  
-  "categories": [ "Other" ],
+  "categories": [
+    "Other"
+  ],
+
   "private": false,
   "license": "MIT",
   "keywords": [
@@ -20,8 +22,12 @@
     "xk Library",
     "xk lib"
   ],
-  "maintainers": [ "xk-z0-xd" ],
-  "contributors": [ "em9836" ],
+  "maintainers": [
+    "xk-z0-xd"
+  ],
+  "contributors": [
+    "em9836"
+  ],
   "directories": {
     "example": "/example",
     "bin": "/bin",
@@ -41,16 +47,8 @@
   "bugs": {
     "url": "https://github.com/XK-Z0-XD/npm-lib/issues"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/npm-lib",
-    "tag": "v1.0.0"
-  },
-  "dist": {
-    "tarball": " https://registry.npmjs.org/npm-lib/-/npm-lib-0.0.0.tgz"
-  },
 
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
 
+  }
 }
