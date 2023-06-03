@@ -36,19 +36,21 @@
     "lib": "/lib",
     "man": "/man"
   },
-  "files": [
-    "src/",
-    "src/core",
-    "lib/",
-    "test/"
-  ],
+ 
   "readme": "README.md",
   "homepage": "https://github.com/XK-Z0-XD/npm-lib#readme",
   "bugs": {
     "url": "https://github.com/XK-Z0-XD/npm-lib/issues"
   },
-
-  "dependencies": {
+  "icon": "docs/media/favicon256.gif",
+  
+  "dependencies": {},
+  "devDependencies": {},
+  "markdown": "github",
+  "config": {
+    "homepage": "https://github.com/XK-Z0-XD/npm-lib/",
+    "githubBranch": "develop"
 
   }
+
 }
